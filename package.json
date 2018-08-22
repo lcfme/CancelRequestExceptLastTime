@@ -1,5 +1,5 @@
 {
-  "name": "easyrequest",
+  "name": "autocancelrequest",
   "version": "0.0.1",
   "description": "an request tools based on Axios. It will automatically cancel request when a new request produces",
   "main": "index.js",
