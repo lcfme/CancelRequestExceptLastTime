@@ -1,4 +1,8 @@
 // flow
+/**
+ * @author Liu Chaofan 
+ * @license MIT
+ */
 const axios = require('axios');
 
 function CancelRequestExceptLastTime() {
